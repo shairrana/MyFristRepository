@@ -1,3 +1,3 @@
 # MyFristRepository
 <br>
-Author - Rana Shair 
+Author - Rana Shair Muhammad
